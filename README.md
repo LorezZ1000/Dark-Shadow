@@ -11,12 +11,6 @@
 - **Brute-force de Diretórios:** Realize ataques de força bruta em diretórios para identificar possíveis vulnerabilidades.
 - **Port Scan:** Escaneie portas em um IP alvo para descobrir serviços em execução.
 
-## Pré-requisitos
-
-Certifique-se de ter os seguintes módulos Python instalados:
-
-pip install python-whois requests pyfiglet
-
 ## **Uso**
 1. Clone o repositório:
 
